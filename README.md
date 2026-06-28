@@ -7,10 +7,10 @@ A modern, responsive Task Tracker web application built using the **MERN Stack**
 ## 🚀 Live Demo
 
 **Frontend:**
-https://your-vercel-url.vercel.app
+https://task-tracker-theta-weld-43.vercel.app
 
 **Backend API:**
-https://your-render-url.onrender.com
+https://task-tracker-hgda.onrender.com
 
 ---
 
@@ -92,7 +92,7 @@ task-tracker/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/task-tracker.git
+git clone https://github.com/Negiditya/Task_Tracker.git
 ```
 
 Move into the project
@@ -217,4 +217,3 @@ VITE_API_URL=http://localhost:5000/api
 - Due Date Notifications
 - Pagination
 - Charts & Analytics Dashboard
-
